@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+jupitermouse.site.dynamic.infra.config.DynamicDataSourceAutoConfigure
